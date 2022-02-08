@@ -1,4 +1,7 @@
 ### Hi there 👋
+Perkenalkan nama saya **Raditya Arya Prasetyo**.\
+saya merupakan mahasiswa aktif Politeknik Negeri Jakarta.\
+saya memiliki ketertarikan khusus kepada programming web, terimakasih.
 
 <!--
 **raditya53/raditya53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
