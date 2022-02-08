@@ -1,7 +1,15 @@
 ### Hi there 👋
 Perkenalkan nama saya **Raditya Arya Prasetyo**.\
 saya merupakan mahasiswa aktif Politeknik Negeri Jakarta.\
-saya memiliki ketertarikan khusus kepada programming web, terimakasih.
+saya memiliki ketertarikan khusus kepada programming web, terimakasih.\
+
+
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raditya53&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raditya53&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **raditya53/raditya53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
