@@ -1,7 +1,7 @@
 ### Hi there 👋
 Perkenalkan nama saya **Raditya Arya Prasetyo**.\
 saya merupakan mahasiswa aktif Politeknik Negeri Jakarta.\
-saya memiliki ketertarikan khusus kepada programming web, terimakasih.\
+saya memiliki ketertarikan khusus kepada programming web, terimakasih.
 
 
 <p align="left">
